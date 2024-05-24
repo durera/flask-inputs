@@ -16,11 +16,11 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     python_requires='>=3.9',
-    name='flask-inputs2',
+    name='Flask-Inputs',
     version='1.0.0',
     description='Flask request data validation',
     long_description=long_description,
-    url='http://github.com/durera/flask-inputs2/',
+    url='http://pythonhosted.org/Flask-Inputs',
     author='David Parker',
     author_email='durera@gmail.com',
     license='MIT',

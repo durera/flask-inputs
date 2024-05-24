@@ -1,7 +1,7 @@
 License
 =======
 
-Copyright for portions of this project are held by Nathan Cahill, 2015 as part of https://github.com/nathancahill/flask-inputs. All other copyright are held by David Parker, 2024.
+Copyright for portions of this project are held by Nathan Cahill, 2015 (https://github.com/nathancahill/flask-inputs). All other copyright are held by David Parker, 2024.
 
 Licensed under the MIT license
 
