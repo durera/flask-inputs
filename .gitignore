@@ -1,0 +1,7 @@
+*.pyc
+venv/
+docs/_build/
+/src/Flask_Inputs2.egg-info
+pandoc-3.2-1-amd64.deb
+/dist
+README.rst
