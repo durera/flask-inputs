@@ -20,7 +20,7 @@ setup(
     version='1.0.0',
     description='Flask request data validation',
     long_description=long_description,
-    url='http://github.com/durera/flask-inputs/',
+    url='http://github.com/durera/flask-inputs2/',
     author='David Parker',
     author_email='durera@gmail.com',
     license='MIT',
